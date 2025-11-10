@@ -1,0 +1,1 @@
+TTC Overlay is a C# .Net WinForms application designed to allow searching of items on https://us.tamrieltradecentre.com/pc/Trade from within Elder Scrolls Online (ESO). This development was last active in 2019, and it is highly likely not to function properly with the current version of the game and/or market site.
